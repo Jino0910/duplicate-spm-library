@@ -8,7 +8,7 @@
 import UIKit
 import Lottie
 
-public class ViewController: UIViewController {
+public class LottieViewController: UIViewController {
     
     // 1. Create the LottieAnimationView
     private var animationView: LottieAnimationView?
